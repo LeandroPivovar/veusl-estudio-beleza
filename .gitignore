@@ -1,0 +1,9 @@
+.aroe-crm.json
+.vercel/
+.taste-skill/
+.taste-sheet.txt
+.env
+.env.*
+*.log
+Thumbs.db
+.DS_Store
